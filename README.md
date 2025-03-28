@@ -15,7 +15,7 @@
 ## 주요 기능
 
 1. 이미지 프로세싱을 통한 해충 감지 및 경로 파악
-2. 해충 감지시 해충 이동 경로로 로봇을 이동, 방제 시도
+2. 해충 감지시 해충 이동 경로로 로봇이 이동, 방제 시도
 3. 핸드폰 앱과 데스크탑 앱을 통하여 벌레 감지 여부, 방제 시도 기록 등 열람 가능
 
 ## 사용 기술들
@@ -27,6 +27,14 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+## 레포지토리
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azruine&repo=cpp_camera_project&show_owner=false)](https://github.com/Azruine/cpp_camera_project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azruine&repo=iot_server&show_owner=false)](https://github.com/Azruine/iot_server)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azruine&repo=ros_docker&show_owner=false)](https://github.com/Azruine/ros_docker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaramSong-95&repo=TcpTelnet&show_owner=false)](https://github.com/GaramSong-95/TcpTelnet)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GaramSong-95&repo=AiotClient_tab5&show_owner=false)](https://github.com/GaramSong-95/AiotClient_tab5)
 
 ## 개발자
 <div align="center">
